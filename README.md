@@ -5,17 +5,17 @@
 - 🌱 I’m currently learning about android kernel (still noob)
 - 📫 Anyone can reach me thru [Twitter](https://twitter.com/Jasonjiangyee)
 
-# My Current work
+# Current Project
 
 Mi 9 (cepheus)
-Trees | Link |
------------- | ------------- 
-Device trees | [device_xiaomi_cepheus](https://github.com/JoK3rLeE/Device_xiaomi_cepheus)
-Vendor trees | [vendor_xiaomi_cepheus](https://github.com/JoK3rLeE/vendor_xiaomi_cepheus)
-Kernel trees | [kernel_xiaomi_cepheus](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus)
+Trees | Link | Fork
+------------ | ------------- | -------------
+Device trees | [device_xiaomi_cepheus](https://github.com/JoK3rLeE/Device_xiaomi_cepheus) | Fork from [EcrosoftXiao Git](https://github.com/EcrosoftXiao/device_xiaomi_cepheus)
+Vendor trees | [vendor_xiaomi_cepheus](https://github.com/JoK3rLeE/vendor_xiaomi_cepheus) | Fork from [EcrosoftXiao Git](https://github.com/EcrosoftXiao/vendor_xiaomi_cepheus)
+Kernel trees | [kernel_xiaomi_cepheus](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) | Fork from [EcrosoftXiao Git](https://github.com/EcrosoftXiao/kernel_xiaomi_cepheus)
 
 ## Hackintosh MacOS 11 
-[Asus S510UQ-BQ178T Hackintosh](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T)
+[Asus S510UQ-BQ178T Hackintosh](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T) Fork from [whatnameisit Git](https://github.com/whatnameisit/Asus-Vivobook-X510UA-BQ490-Hackintosh)
 
 
 <!---
