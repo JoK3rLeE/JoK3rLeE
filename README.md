@@ -20,8 +20,7 @@ Vendor trees | [vendor_xiaomi_cepheus](https://github.com/JoK3rLeE/vendor_xiaomi
 Kernel trees | [kernel_xiaomi_cepheus](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) | Fork from [EcrosoftXiao](https://github.com/EcrosoftXiao/kernel_xiaomi_cepheus)
 
 ROM | Link | Mirror 1 | Status
------------- | ------------- | ------------- | ------------- | 
-Dot OS       | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/DotOS/) | [Android File Host](https://www.androidfilehost.com/?w=files&flid=325895) |  UNOFFICIAL 
+------------ | ------------- | ------------- | ------------- |
 Evolution-X  | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Evolution-X/) | [Android File Host](https://www.androidfilehost.com/?w=files&flid=324419) | UNOFFICIAL 
 
 ### Hackintosh MacOS 11 
