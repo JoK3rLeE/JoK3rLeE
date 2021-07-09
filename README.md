@@ -10,26 +10,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JoK3rLeE&theme=dark&show_icons=true)
 
-# Current Project
-
-### Mi 9 (cepheus)
-Trees | Link | Git Fork
------------- | ------------- | -------------
-Device trees | [device_xiaomi_cepheus](https://github.com/JoK3rLeE/Device_xiaomi_cepheus) | Fork from [EcrosoftXiao](https://github.com/EcrosoftXiao/device_xiaomi_cepheus)
-Vendor trees | [vendor_xiaomi_cepheus](https://github.com/JoK3rLeE/vendor_xiaomi_cepheus) | Fork from [EcrosoftXiao](https://github.com/EcrosoftXiao/vendor_xiaomi_cepheus)
-Kernel trees | [kernel_xiaomi_cepheus](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) | Fork from [EcrosoftXiao](https://github.com/EcrosoftXiao/kernel_xiaomi_cepheus)
-
-ROM | Link | Mirror 1 | Status
------------- | ------------- | ------------- | ------------- |
-Evolution-X  | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Evolution-X/) | [Android File Host](https://www.androidfilehost.com/?w=files&flid=324419) | UNOFFICIAL 
-
-### Hackintosh MacOS 11 
-EFI | Hackintosh | Git Fork | Status
------------- | ------------- | ------------- | -------------
-OpenCore | [Asus S510UQ-BQ178T Hackintosh](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T) | Fork from [whatnameisit](https://github.com/whatnameisit/Asus-Vivobook-X510UA-BQ490-Hackintosh) | Support MacOS Big Sur only. 
-
-
-
 <!---
 JoK3rLeE/JoK3rLeE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
