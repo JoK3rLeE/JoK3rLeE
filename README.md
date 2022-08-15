@@ -15,7 +15,8 @@ Project | Device | Supported Version | Status | Extra Link | Extra Link
 Hackintosh MacOS (OpenCore)| ASUS S510UQ | macOS 12 Monterey|  Discontinued | [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T) | N/A
 Unofficial dotOS | Xiaomi Mi 9 (cepheus) | Android 11 | Discontinued | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Dot%20OS/)
 Unofficial Pixel Extended | [Xiaomi Mi 9 (cepheus)](https://github.com/JoK3rLeE/device_xiaomi_cepheus-1) | Android 12.1 |Discontinued | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/)
-Unofficial Project Kaleidoscope | Xiaomi Mi 9 (cepheus) | Android 12.1 | WIP | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) | N/A
+Unofficial Project Kaleidoscope | Xiaomi Mi 9 (cepheus) | Android 12.1 | WIP | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/Kaleidoscope-sunflowerleaf-cepheus-20220815-UNOFFICIAL.zip/download)
+UNOFFICIAL TWRP | Xiaomi Mi 9 (cepheus) | Android 12.1 ONLY|  WIP | [Device trees](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/android-12-test) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/TWRP-3.6.2_12.0-UNOFFICIAL-KSCOPE-CEPHEUS.img/download)
 
 Notes: dotOS Device Trees and kernel source deleted. 
 
