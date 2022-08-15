@@ -9,11 +9,20 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JoK3rLeE&theme=dark&show_icons=true)
 
-# My Current Project 
-### Unofficial dotOS for Xiaomi Mi 9 (Android 11)
+# My Personal Project List
+Project | Device | Supported Version | Status | Extra Link | Extra Link 
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+Hackintosh MacOS (OpenCore)| ASUS S510UQ | macOS 12 Monterey|  Discontinued | [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T) | N/A
+Unofficial dotOS | Xiaomi Mi 9 (cepheus) | Android 11 | Discontinued | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Dot%20OS/)
+Unofficial Pixel Extended | [Xiaomi Mi 9 (cepheus)](https://github.com/JoK3rLeE/device_xiaomi_cepheus-1) | Android 12.1 |Discontinued | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/)
+Unofficial Project Kaleidoscope | Xiaomi Mi 9 (cepheus) | Android 12.1 | WIP | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) | N/A
 
-<a href="https://sourceforge.net/projects/device-xiaomi-cepheus/files/Dot%20OS/"><img alt="Download UNOFFICIAL DotOS for Mi 9 CEPHEUS" src="https://sourceforge.net/sflogo.php?type=16&group_id=3383405" ></a> 
+Notes: dotOS Device Trees and kernel source deleted. 
 
-### Unofficial Pixel Extended for Mi 9 (Android 12.1)
+### Notes: 
+The following sensors I can't test: 
+- Fingerprint
+- Fast charge (Original Mi 9 charger, other QC2.0 charger)
 
-<a href="https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/"><img alt="Download Unofficial PEX for Cepheus" src="https://sourceforge.net/sflogo.php?type=16&group_id=3383405" ></a>
+#### Device Status
+My cepheus (Xiaomi Mi 9) charging board burned due to overheat, Now I can't use fast charge and fingerprint. 
