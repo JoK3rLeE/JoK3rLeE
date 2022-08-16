@@ -10,16 +10,15 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JoK3rLeE&theme=dark&show_icons=true)
 
 # My Personal Project List
-Project | Device | Supported Version | Status | Extra Link | Extra Link 
------------- | ------------- | ------------- | ------------- | ------------- | -------------
-Hackintosh MacOS (OpenCore)| ASUS S510UQ | macOS 12 Monterey|  Discontinued | [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T) | N/A
-Unofficial dotOS | Xiaomi Mi 9 (cepheus) | Android 11 | Discontinued | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Dot%20OS/)
-Unofficial Pixel Extended | [Xiaomi Mi 9 (cepheus)](https://github.com/JoK3rLeE/device_xiaomi_cepheus-1) | A12L Sv2 | Stable | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/)
-Unofficial Project Kaleidoscope | Xiaomi Mi 9 (cepheus) | A12L Sv2 | Beta 1 (Sunflowerleaf) | [Kernel source](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/Kaleidoscope-sunflowerleaf-cepheus-20220815-UNOFFICIAL.zip/download)
-Unofficial TWRP | Xiaomi Mi 9 (cepheus) | A12L Sv2 ONLY |  Beta | [Device trees](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/android-12-test) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/TWRP-3.6.2_12.0-UNOFFICIAL-KSCOPE-CEPHEUS.img/download)
-Unofficial TWRP | Xiaomi Mi 9 (cepheus) | A12L Sv2 RETROFIT |  WIP | N/A | N/A
+Project | Device | Software Ver. | Type | Status | Source | Download 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+Hackintosh MacOS | ASUS S510UQ | macOS 12 | OpenCore | Archived | [EFI](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T) | Use EFI Link
+dotOS | Mi 9 (cepheus) | Android 11 | UNOFFICIAL | Dropped | [Kernel trees](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Dot%20OS/)
+Pixel Extended | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL | Stable | [Kernel trees](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/)
+Project Kaleidoscope | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL | Beta | [Kernel trees](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/Kaleidoscope-sunflowerleaf-cepheus-20220815-UNOFFICIAL.zip/download)
+TWRP | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL |  Beta | [Device trees](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/android-12-test) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/TWRP-3.6.2_12.0-UNOFFICIAL-KSCOPE-CEPHEUS.img/download)
 
-Notes: RETROFIT version will based on Logan trees fstab, SebaUbuntu fstab will be supported too! Huge credits to Seba for bringing retrofit dynamic to xiaomi sm8150 devices!
+Notes: RETROFIT TWRP version will based on Logan trees fstab, SebaUbuntu fstab will be supported too! Huge credits to SebaUbuntu and Giovix92 for bringing retrofit dynamic to xiaomi sm8150 devices!
 
 ### Notes: 
 The following sensors I can't test: 
