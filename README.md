@@ -21,7 +21,6 @@ TWRP | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL |  Beta | [Device trees](https
 ### Notes: 
 The following sensors I can't test: 
 - Fingerprint
-- Fast charge (Original Mi 9 charger, other QC2.0 charger)
 
 #### Device Status
-My cepheus (Xiaomi Mi 9) charging board burned due to overheat, Now I can't use fast charge and fingerprint. 
+My cepheus (Xiaomi Mi 9) charging board burned due to overheat, Now I can't use fingerprint. 
