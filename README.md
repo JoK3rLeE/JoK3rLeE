@@ -17,7 +17,7 @@ dotOS | Mi 9 (cepheus) | Android 11 | UNOFFICIAL | Dropped | [Kernel trees](http
 Pixel Extended | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL | Stable | [Kernel trees](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) |[Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/)
 Project Kaleidoscope | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL | Beta | [Kernel trees](https://github.com/JoK3rLeE/kernel_xiaomi_cepheus-1) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/Kaleidoscope-sunflowerleaf-cepheus-20220815-UNOFFICIAL.zip/download)
 TWRP | Mi 9 (cepheus) | Android 12.1 | UNOFFICIAL |  Beta | [Device trees](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/android-12-test) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/TWRP-3.6.2_12.0-UNOFFICIAL-KSCOPE-CEPHEUS.img/download)
-TWRP (**Retrofit**) | Mi 9 (cepheus) | Android 12.1/ 13 | UNOFFICIAL |  Alpha | [Device trees](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus-twrp) | [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/Kaleidoscope/TWRP-3.6.2_12.0-UNOFFICIAL-KSCOPE-CEPHEUS.img/download)
+TWRP (**Retrofit**) | Mi 9 (cepheus) | Android 12.1/ 13 | UNOFFICIAL |  Alpha | [Device trees](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus-twrp) | [Github](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus-twrp/releases/tag/RETROFIT)
 
 ### Notes: 
 The following sensors I can't test: 
