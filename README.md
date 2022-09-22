@@ -20,9 +20,4 @@ TWRP (**Retrofit**) | Mi 9 (cepheus) | Android 12.1/ 13 | UNOFFICIAL |  Disconti
 
 Discontinued due to no servers (PC) to compile.
 
-### Notes: 
-The following sensors I can't test: 
-- Fingerprint
-
-#### Device Status
-My cepheus (Xiaomi Mi 9) charging board burned due to overheat, Now I can't use fingerprint. 
+time for me to drop support for Mi 9. Life SUCKs 
