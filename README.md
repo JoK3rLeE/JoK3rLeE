@@ -41,6 +41,9 @@ Type | Model | Brand
 | HDD | 1TB 7200rpm Blue | WD 
 | SSD | 1TB CS 900 SSD | PNY 
 | PSU | Revolt SFX 750 80+ Platinum | PHANTEKS
+| OS | Windows 11 + Linux Ubuntu 20.04 | Linux SWAP 60GB 
+
+Note: Add SWAP when baking recovery to avoid build fail. (Save budget)
 
 ### Custom build PC 2 for building recovery
 
@@ -51,7 +54,11 @@ Type | Model | Brand
 | RAM | 32GB 3200MHz | ADATA
 | GPU | NVidia RTX 4060 8GB | Zotac
 | SSD | 1TB NVMe SSD | Gigabyte 
+| SSD | 1TB SATA SSD | Kingston 
 | PSU | SF750 | Corsair
+| OS | Windows 11 + Linux Ubuntu 22.04 | Linux SWAP 20GB 
+
+Note: Add SWAP when baking recovery to avoid build fail.
 
 ### Custom Laptop for coding / build & test  ROMs + recovery 
 Type | Model | Brand 
@@ -61,6 +68,8 @@ Type | Model | Brand
 | RAM | 32GB 3200MHz | Kingston
 | GPU | Iris Xe 96 | Intel
 | SSD | 512GB NVMe SSD | Neo forza
-| SSD | 1TB NVMe SSD | Kingston
+| SSD | NV3 1TB NVMe SSD | Kingston
+| OS | Windows 11 + Linux Ubuntu 24.04 | Linux SWAP 100GB
 
-(NOTE: CPU capped at 5.2GHz Max due to power issues) 
+NOTE: CPU capped at 5.2GHz Max due to power issues
+NOTE 2: CPU manually capped at 14T when baking ROMs due to insufficient Memories & thermal issues 
