@@ -1,4 +1,4 @@
-# Hi There! 
+# Hi There! I'm Jason Jiang Yee!
 
 THis is my Personal hobby when I have time to learn something new! All of my personal learning project has been stopped because I do not have time to learn due to long distance travel work for 2 years. 
 
@@ -11,7 +11,7 @@ Android Version : A11, A12, A13, A14 & A15
 
 ROM Type : Evolution-X / AOSPA / AOSP Extended / Kaleidoscope / DotOS / PEX / Elixir OS
 
-Link :[Github](https://github.com/JoK3rLeE/aospa_device_xiaomi_cepheus)
+Link : [Github](https://github.com/JoK3rLeE/aospa_device_xiaomi_cepheus)
 
 ### Custom Kernel for Xiaomi Mi 9 (cepheus)
 Project Status : WIP  
