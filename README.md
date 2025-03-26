@@ -18,7 +18,7 @@ Project Status : WIP
 
 Android Version: A15
 
-Link : [Github](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150)
+Link : [WIP 1](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150) [WIP 2](https://github.com/JoK3rLeE/aospa_kernel_xiaomi_cepheus)
 
 ### TWRP Recovery for Xiaomi Mi 9 (cepheus)
 Project Status : Planning for A15 
