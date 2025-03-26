@@ -1,6 +1,6 @@
 # Hi There! I'm Jason Jiang Yee!
 
-THis is my Personal hobby when I have time to learn something new! All of my personal learning project has been stopped because I do not have time to learn due to long distance travel work for 2 years. 
+This is my Personal hobby when I have time to learn something new! All of my personal learning project has been stopped because I do not have time to learn due to long distance travel work for 2 years. 
 
 # My Research Project
 
