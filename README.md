@@ -4,7 +4,7 @@ THis is my Personal hobby when I have time to learn something new! All of my per
 
 # My Research Project
 
-### Android Custom ROM for Xiaomi Mi 9 (cepheus)  
+### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 Project Status : Abandoned & *Download Link all removed*.
 
 Android Version : A11, A12, A13 & A14 
@@ -12,6 +12,13 @@ Android Version : A11, A12, A13 & A14
 ROM Type : Evolution-X / AOSPA / AOSP Extended / Kaleidoscope / DotOS / PEX / Elixir OS
 
 Link :[Github](https://github.com/JoK3rLeE/aospa_device_xiaomi_cepheus)
+
+### Custom Kernel for Xiaomi Mi 9 (cepheus)
+Project Status : Abandoned 
+
+Android Version: A14
+
+Link : [Github](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150)
 
 ### TWRP Recovery for Xiaomi Mi 9 (cepheus)
 Project Status : Abandoned 
@@ -72,4 +79,5 @@ Type | Model | Brand
 | OS | Windows 11 + Linux Ubuntu 24.04 | Linux SWAP 100GB
 
 NOTE: CPU capped at 5.2GHz Max due to power issues
+
 NOTE 2: CPU manually capped at 14T when baking ROMs due to insufficient Memories & thermal issues 
