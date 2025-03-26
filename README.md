@@ -30,7 +30,7 @@ Link : [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T)
 
 # My Build Machine 
 
-### Custom build PC 1 for ROM (Light Gaming Set) 
+### Custom build PC 1 for building ROM 
 
 Type | Model | Brand 
 ------------ | ------------- | ------------- | 
@@ -42,7 +42,7 @@ Type | Model | Brand
 | SSD | 1TB CS 900 SSD | PNY 
 | PSU | Revolt SFX 750 80+ Platinum | PHANTEKS
 
-### Custom build PC 1 for recovery (Light Gaming Set) 
+### Custom build PC 2 for building recovery
 
 Type | Model | Brand 
 ------------ | ------------- | ------------- | 
@@ -50,11 +50,10 @@ Type | Model | Brand
 | CPU | Ryzen 5 5600 6C/12T 3.5GHz | AMD
 | RAM | 32GB 3200MHz | ADATA
 | GPU | NVidia RTX 4060 8GB | Zotac
-| SSD | 512GB NVMe SSD | Gigabyte
-| SSD | 1TB NVMe SSD | WD 
+| SSD | 1TB NVMe SSD | Gigabyte 
 | PSU | SF750 | Corsair
 
-### Custom Laptop for coding 
+### Custom Laptop for coding / build & test  ROMs + recovery 
 Type | Model | Brand 
 ------------ | ------------- | ------------- | 
 | Mobo | Atomic 14 | illegear Malaysia 
