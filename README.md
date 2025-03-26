@@ -5,7 +5,7 @@ This is my Personal hobby when I have time to learn something new! All of my per
 # My Research Project
 
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
-Project Status : A15 LOS WIP
+Project Status : Planning for A15 LOS 
 
 Android Version : A11, A12, A13, A14 & A15
 
