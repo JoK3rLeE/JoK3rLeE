@@ -5,30 +5,30 @@ THis is my Personal hobby when I have time to learn something new! All of my per
 # My Research Project
 
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
-Project Status : Abandoned & *Download Link all removed*.
+Project Status : A15 LOS WIP
 
-Android Version : A11, A12, A13 & A14 
+Android Version : A11, A12, A13, A14 & A15
 
 ROM Type : Evolution-X / AOSPA / AOSP Extended / Kaleidoscope / DotOS / PEX / Elixir OS
 
 Link :[Github](https://github.com/JoK3rLeE/aospa_device_xiaomi_cepheus)
 
 ### Custom Kernel for Xiaomi Mi 9 (cepheus)
-Project Status : Abandoned 
+Project Status : WIP  
 
-Android Version: A14
+Android Version: A15
 
 Link : [Github](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150)
 
 ### TWRP Recovery for Xiaomi Mi 9 (cepheus)
-Project Status : Abandoned 
+Project Status : Planning for A15 
 
 Android Version: A13 & A14 
 
 Link : [Github](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus-twrp)
 
 ### Hackintosh for Asus S510UQ : 
-Project Status : Abandoned 
+Project Status : Abandoned
 
 MacOS Version: 10.14 ~ 12 
 
