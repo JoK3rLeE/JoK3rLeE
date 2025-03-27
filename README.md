@@ -7,23 +7,16 @@ This is my Personal hobby when I have time to learn something new! All of my per
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 Project Status : A15 LineageOS WIP
 
-Android Version : A11, A12, A13, A14 & A15
+Android Version : A15
 
-ROM Type : Evolution-X / AOSPA / AOSP Extended / Kaleidoscope / DotOS / PEX / Elixir OS / Lineage OS 
+ROM Type : Lineage OS (UNOFFICIAL)
 
 Link : [Github](https://github.com/JoK3rLeE/aospa_device_xiaomi_cepheus)
-
-### Custom Kernel for Xiaomi Mi 9 (cepheus)
-Project Status : Soviet for Cepheus WIP  
-
-Android Version: A15
-
-Link : [WIP 1](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150) [WIP 2](https://github.com/JoK3rLeE/aospa_kernel_xiaomi_cepheus)
 
 ### TWRP Recovery for Xiaomi Mi 9 (cepheus)
 Project Status : Planning for A15 (Depends on ROM progress)
 
-Android Version: A13 & A14 
+Android Version: A13 - A15 (WIP)
 
 Link : [Github](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus-twrp)
 
