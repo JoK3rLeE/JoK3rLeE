@@ -9,17 +9,7 @@
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 Android Version : A16
 
-ROM Type : Infinity-X (UNOFFICIAL)
-
-ROM Status: Personal testing only. 
-
-Device Sources : 
-[xiaomi-sm8150-devs DT](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus)
-[xiaomi-sm8150-devs vendor ](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
-[Evo-X sm8150-common vendor ](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
-[Evo-X sm8150-common device ](https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common)
-[Evo-X sm8150 kernel] (https://github.com/Evolution-X-Devices/kernel_xiaomi_sm8150)
-
+Custom ROM Type : Infinity-X, Not open for public use. 
 
 ### OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Android Version: A16
@@ -33,6 +23,16 @@ MacOS Version: 10.14 ~ 12
 
 Link : [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T)
 
+### cepheus sources
+Device trees: [xiaomi-sm8150-devs](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus)
+
+Device vendor tree: [xiaomi-sm8150-devs](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
+
+common vendor tree: [Evolution-X](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
+
+common device tree: [Evolution-X](https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common)
+
+device kernel tree: [Evolution-X](https://github.com/Evolution-X-Devices/kernel_xiaomi_sm8150)
 
 # My Build Machine 
 
