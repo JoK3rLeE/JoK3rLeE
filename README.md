@@ -15,9 +15,9 @@ TYPE | SOURCE | LINK
 ------------ | ------------- | ------------- |
 cepheus device| xiaomi-sm8150-devs | [Link](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus)
 cepheus vendor | xiaomi-sm8150-devs | [Link](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
-kernel_xiaomi_sm8150 | Evolution-X | [Link](https://github.com/Evolution-X-Devices/kernel_xiaomi_sm8150)
-vendor_xiaomi_sm8150-common | Evolution-X | [Link](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
-device_xiaomi_sm8150-common | Evolution-X | [Link](https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common)
+kernel_xiaomi_sm8150 | Evolution-X | [Link](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150)
+vendor_xiaomi_sm8150-common | Evolution-X | [Link](https://github.com/JoK3rLeE/vendor_xiaomi_sm8150-common)
+device_xiaomi_sm8150-common | Evolution-X | [Link](https://github.com/JoK3rLeE/device_xiaomi_sm8150-common)
 
 ### OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Android Version: A16
