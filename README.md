@@ -11,7 +11,15 @@ Android Version : A16
 
 ROM Type : Infinity-X (UNOFFICIAL)
 
-Link : [Github](https://github.com/JoK3rLeE/device_xiaomi_cepheus)
+ROM Status: Personal testing only. 
+
+Device Sources : 
+[xiaomi-sm8150-devs DT](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus)
+[xiaomi-sm8150-devs vendor ](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
+[Evo-X sm8150-common vendor ](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
+[Evo-X sm8150-common device ](https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common)
+[Evo-X sm8150 kernel] (https://github.com/Evolution-X-Devices/kernel_xiaomi_sm8150)
+
 
 ### OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Android Version: A16
