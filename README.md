@@ -9,12 +9,14 @@
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 Android Version : A16
 
-I Currently using Custom ROM : Project Treble HyperOS 3.0.304.0WFACNXM.C06 Port to Mi 9 by @[Xirudly](https://github.com/Xirudly)
+Currently using [Project Treble HyperOS 3.0.304.0WFACNXM.C06](https://github.com/JoK3rLeE/JoK3rLeE/blob/main/img/HyperOS 3.0.304.0WFACNXM.C06.jpg) Port to Mi 9 by @[Xirudly](https://github.com/Xirudly)
 
 ### OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Android Version: A16
 
 Link : [Github](https://github.com/JoK3rLeE/twrp_cepheus)
+
+Status: WIP
 
 ### Hackintosh for Asus S510UQ : 
 Project Status : EOL
