@@ -9,16 +9,7 @@
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 Android Version : A16
 
-Current using Custom ROM : Project Treble HyperOS 3.0.304.0WFACNXM.C06 Port to Mi 9 by @[Xirudly](https://github.com/Xirudly)
-
-
-TYPE | SOURCE | LINK 
------------- | ------------- | ------------- |
-cepheus device| xiaomi-sm8150-devs | [Link](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus)
-cepheus vendor | xiaomi-sm8150-devs | [Link](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
-kernel_xiaomi_sm8150 | Evolution-X | [Link](https://github.com/JoK3rLeE/kernel_xiaomi_sm8150)
-vendor_xiaomi_sm8150-common | Evolution-X | [Link](https://github.com/JoK3rLeE/vendor_xiaomi_sm8150-common)
-device_xiaomi_sm8150-common | Evolution-X | [Link](https://github.com/JoK3rLeE/device_xiaomi_sm8150-common)
+I Currently using Custom ROM : Project Treble HyperOS 3.0.304.0WFACNXM.C06 Port to Mi 9 by @[Xirudly](https://github.com/Xirudly)
 
 ### OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Android Version: A16
