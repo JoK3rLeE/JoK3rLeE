@@ -9,7 +9,8 @@
 ### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 Android Version : A16
 
-Custom ROM Type : Infinity-X, Not open for public use. 
+Current using Custom ROM : Project Treble HyperOS 3.0.304.0WFACNXM.C06 Port to Mi 9 by @[Xirudly](https://github.com/Xirudly)
+
 
 TYPE | SOURCE | LINK 
 ------------ | ------------- | ------------- |
