@@ -4,35 +4,42 @@
 <br/>
 <br/>
 
-# My Research Project
+# Custom Android ROM for Xiaomi Mi 9 (cepheus)  
+#### Android Version : A16 (Android 16 QPR2)
 
-### Custom Android ROM for Xiaomi Mi 9 (cepheus)  
-Android Version : A16 (Android 16 QPR2)
+Mi 9 Device Tree: [16.0-bq2](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus) 
 
-Custom ROMs : [Evolution-X bq2 branch (unofficial personal build)](https://github.com/JoK3rLeE/JoK3rLeE/blob/main/img/EvoX.png)
+Mi 9 Vendor Tree: [16.0](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
 
-Currently using [Project Treble HyperOS 3.0.304.0WFACNXM.C06](https://github.com/JoK3rLeE/JoK3rLeE/blob/main/img/HyperOS%203.0.304.0WFACNXM.C06.jpg) Port to Mi 9 by @[Xirudly](https://github.com/Xirudly)
+Mi 9 Kernel Tree: [16.0-cepheus](https://github.com/JoK3rLeE/android_kernel_xiaomi_sm8150)
 
-### OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
-Android Version: A16
+Device sm8150-common: [bka](https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common)
 
-Link : [Github](https://github.com/JoK3rLeE/twrp_cepheus)
+Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
-Status: WIP
+#### Custom ROMs : Project Infinity | WIP 
 
-### Custom Android ROM for Mi 9 Lite (Pyxis) 
-Status: WIP 
+Testbuild ROMs : [EvolutionX-16.0-20260323-cepheus-11.6.2-Unofficial)](https://github.com/JoK3rLeE/JoK3rLeE/blob/main/img/EvoX.png) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/EvoX%20QPR2/)
 
-### Hackintosh for Asus S510UQ : 
+*Note: Evolution-X unofficial build will not provide further update as the ROM have official maintainer.*
+
+## OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
+Supported version: OrangeFox R11.3 Android 16. 
+
+Mi 9 Device tree for recovery : [Github](https://github.com/JoK3rLeE/twrp_cepheus)
+
+Variant: [Retrofit](https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/) | [Legacy](https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/Legacy/)
+#### What's the difference? 
+Retrofit fits to all dynamic ROMs, while Legacy $${\color{red}ONLY}$$ support **commonized device tree** ROMs
+
+## Hackintosh for Asus S510UQ : 
 Project Status : EOL
 
 MacOS Version: 10.14 ~ 12 
 
 Link : [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T)
 
-# My Build Machine 
-
-### Custom build PC for building recovery
+# My build bot 
 
 Type | Model | Brand 
 ------------ | ------------- | ------------- | 
