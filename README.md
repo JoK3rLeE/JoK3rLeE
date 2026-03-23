@@ -17,7 +17,7 @@ Device sm8150-common: [bka](https://github.com/Evolution-X-Devices/device_xiaomi
 
 Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
-#### Custom ROMs : Project Infinity | WIP 
+#### Custom ROMs : Project_Infinity-X-3.8 | Internal testing
 
 Testbuild ROMs : [EvolutionX-16.0-20260323-cepheus-11.6.2-Unofficial)](https://github.com/JoK3rLeE/JoK3rLeE/blob/main/img/EvoX.png) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/EvoX%20QPR2/)
 
