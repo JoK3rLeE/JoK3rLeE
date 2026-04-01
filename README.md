@@ -17,11 +17,7 @@ Device sm8150-common: [bka](https://github.com/Evolution-X-Devices/device_xiaomi
 
 Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
-#### Custom ROMs : Project_Infinity-X-3.8 | Internal testing
-
-Testbuild ROMs : [EvolutionX-16.0-20260323-cepheus-11.6.2-Unofficial)](https://github.com/JoK3rLeE/JoK3rLeE/blob/main/img/EvoX.png) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/EvoX%20QPR2/)
-
-*Note: Evolution-X unofficial build will not provide further update as the ROM have official maintainer.*
+#### Custom ROMs : Project_Infinity-X-3.8 | [Unofficial](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
 
 ## OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Supported version: OrangeFox R11.3 Android 16. 
@@ -30,7 +26,7 @@ Mi 9 Device tree for recovery : [Github](https://github.com/JoK3rLeE/twrp_cepheu
 
 Variant: [Retrofit](https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/) | [Legacy](https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/Legacy/)
 #### What's the difference? 
-Retrofit fits to all dynamic ROMs, while Legacy $${\color{red}ONLY}$$ support **commonized device tree** ROMs
+Retrofit fits to all dynamic ROMs, while Legacy **ONLY** support **commonized device tree** ROMs
 
 ## Hackintosh for Asus S510UQ : 
 Project Status : EOL
