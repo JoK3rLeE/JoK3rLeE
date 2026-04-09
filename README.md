@@ -17,7 +17,9 @@ Device sm8150-common: [bka](https://github.com/Evolution-X-Devices/device_xiaomi
 
 Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
-#### Custom ROMs : Project_Infinity-X-3.8 | [Unofficial](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
+#### Custom ROMs : Project_Infinity-X-3.9 | [Unofficial](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
+
+### Now, My project will stop for awhile as I'm going back to work. see you soon, cepheus community. 
 
 ## OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
 Supported version: OrangeFox R11.3 Android 16. 
