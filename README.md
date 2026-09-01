@@ -5,7 +5,7 @@
 <br/>
 
 # Custom Android ROM for Xiaomi Mi 9 (cepheus)  
-#### Android Version : A16 (Android 16 QPR2)
+#### Supported Version : A16 (Android 16 QPR2) | A17 (Android 17 Early Bring Up) 
 
 Mi 9 Device Tree: [16.0-bq2](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus) 
 
@@ -17,18 +17,16 @@ Device sm8150-common: [bka](https://github.com/Evolution-X-Devices/device_xiaomi
 
 Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
-#### Custom ROMs : Project_Infinity-X-3.9 | [Unofficial](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
+#### Custom ROMs : 
 
-### Now, My project will stop for awhile as I'm going back to work. see you soon, cepheus community. 
+Project Infinity X (Unofficial A16 QPR2) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
+
+Evolution X 12.1 (A17 Preview Edition) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
+
+Note: Evolution X ROMs will not continue to support as for Mi 9 (cepheus) have official support by nhansp 
 
 ## OrangeFox Recovery for Xiaomi Mi 9 (cepheus)
-Supported version: OrangeFox R11.3 Android 16. 
-
 Mi 9 Device tree for recovery : [Github](https://github.com/JoK3rLeE/twrp_cepheus)
-
-Variant: [Retrofit](https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/) | [Legacy](https://sourceforge.net/projects/device-xiaomi-cepheus/files/OrangeFox/Legacy/)
-#### What's the difference? 
-Retrofit fits to all dynamic ROMs, while Legacy **ONLY** support **commonized device tree** ROMs
 
 ## Hackintosh for Asus S510UQ : 
 Project Status : EOL
@@ -36,23 +34,3 @@ Project Status : EOL
 MacOS Version: 10.14 ~ 12 
 
 Link : [Github](https://github.com/JoK3rLeE/Asus-S510UQ-BQ178T)
-
-# My build bot 
-
-Type | Model | Brand 
------------- | ------------- | ------------- | 
-| Board 1 | B550M-P Gen 3 | MSI  
-| Board 2 | B460M Pro 4 | Asrock 
-| CPU 1 | Ryzen 5 5600 6C/12T 3.5GHz | AMD
-| CPU 2 | Intel I5 10400F 6C/12T 2.9GHz | Intel
-| RAM 1 | 32GB 3200MHz | ADATA
-| RAM 2 | 32GB 2666MHz | Kingston
-| GPU 1 | NVidia GTX 1060 6GB | Galax
-| GPU 2 | NVidia GTX 1060 6GB | Asus
-| SSD Board 1 | 1TB NVMe SSD | Gigabyte (Linux)
-| SSD Board 1 | 512GB NVMe SSD | SKHynix (Windows)
-| SSD Board 2 | 1TB SATA SSD | Kingston (Linux)
-| SSD Board 2 | 512GB NVMe SSD | NeoForza (Windows)
-| PSU 1 | SF750 | Corsair
-| PSU 2 | VS550 | Corsair
-| OS 1 & 2 | Windows 11 + Linux Ubuntu 22.04 | Linux SWAP 20GB 
