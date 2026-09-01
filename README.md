@@ -21,7 +21,7 @@ Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi
 
 Project Infinity X (Unofficial A16 QPR2) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
 
-Evolution X 12.1 (A17 Preview Edition) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/infinity-x/)
+Evolution X 12.1 (A17 Preview Edition) | Download Link: [Sourceforge](https://sourceforge.net/projects/device-xiaomi-cepheus/files/17.0)
 
 Note: Evolution X ROMs will not continue to support as for Mi 9 (cepheus) have official support by nhansp 
 
