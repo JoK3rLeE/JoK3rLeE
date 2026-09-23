@@ -7,7 +7,7 @@
 # Custom Android ROM for Xiaomi Mi 9 (cepheus)  
 #### Currently working on Android 17 and polishing kernel for Mi 9 
 
-Mi 9 Device Tree: [17.0]([https://github.com/JoK3rLeE/android_device_xiaomi_cepheus](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/17.0)) 
+Mi 9 Device Tree: [17.0]([https://github.com/JoK3rLeE/android_device_xiaomi_cepheus](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/17.0) 
 
 Mi 9 Vendor Tree: [17.0](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
 
