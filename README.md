@@ -13,7 +13,7 @@ Mi 9 Vendor Tree: [17.0](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_c
 
 Mi 9 Kernel Tree: [17.0](https://github.com/JoK3rLeE/android_kernel_xiaomi_sm8150)
 
-Device sm8150-common: [17.0]([https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common](https://github.com/JoK3rLeE/device_xiaomi_sm8150-common/tree/17.0))
+Device sm8150-common: [17.0]([https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common](https://github.com/JoK3rLeE/device_xiaomi_sm8150-common/tree/17.0)
 
 Vendor sm8150-common: [Evolution-X cnb trees](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
