@@ -5,17 +5,17 @@
 <br/>
 
 # Custom Android ROM for Xiaomi Mi 9 (cepheus)  
-#### Supported Version : A16 (Android 16 QPR2) | A17 (Android 17 Early Bring Up) 
+#### Currently working on Android 17 and polishing kernel for Mi 9 
 
-Mi 9 Device Tree: [16.0-bq2](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus) 
+Mi 9 Device Tree: [17.0]([https://github.com/JoK3rLeE/android_device_xiaomi_cepheus](https://github.com/JoK3rLeE/android_device_xiaomi_cepheus/tree/17.0)) 
 
-Mi 9 Vendor Tree: [16.0](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
+Mi 9 Vendor Tree: [17.0](https://github.com/JoK3rLeE/proprietary_vendor_xiaomi_cepheus)
 
-Mi 9 Kernel Tree: [16.0-cepheus](https://github.com/JoK3rLeE/android_kernel_xiaomi_sm8150)
+Mi 9 Kernel Tree: [17.0](https://github.com/JoK3rLeE/android_kernel_xiaomi_sm8150)
 
-Device sm8150-common: [bka](https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common)
+Device sm8150-common: [17.0]([https://github.com/Evolution-X-Devices/device_xiaomi_sm8150-common](https://github.com/JoK3rLeE/device_xiaomi_sm8150-common/tree/17.0))
 
-Vendor sm8150-common: [bka](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
+Vendor sm8150-common: [Evolution-X cnb trees](https://github.com/Evolution-X-Devices/vendor_xiaomi_sm8150-common)
 
 #### Custom ROMs : 
 
