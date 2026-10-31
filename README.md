@@ -25,11 +25,24 @@
 
 Hi, I'm **Jason**, also known as **[@JoK3rLeE](https://github.com/JoK3rLeE)**.
 
-I work primarily on Android platform development and Linux kernel engineering, with a particular focus on Qualcomm-based Xiaomi devices. My ongoing work revolves around the **Xiaomi Mi 9 (cepheus)** and its **Snapdragon 855 / SM8150** platform.
+My development background is rooted in Android platform development and Linux kernel engineering, particularly Qualcomm-based Xiaomi devices. Much of my previous work focused on the **Xiaomi Mi 9 (cepheus)** and its **Snapdragon 855 / SM8150** platform.
 
 I enjoy working below the application layer: understanding hardware interfaces, adapting kernel subsystems, maintaining device configurations, debugging platform issues, and bringing newer Android releases to aging hardware.
 
 My approach is engineering-led: investigate the underlying implementation, keep changes traceable, and validate functionality on real hardware wherever possible.
+
+## 📢 Development Notice
+
+> [!IMPORTANT]
+> **Mi 9 (cepheus) and Qualcomm SM8150 development has been discontinued.**
+>
+> Due to an increasingly demanding work schedule and personal circumstances, I have decided to step away from active development and maintenance for the Xiaomi Mi 9 and SM8150 platform.
+>
+> This marks the end of my active work on these projects for the foreseeable future. Existing repositories and source code will remain available as an archive and reference for the community, but **please do not expect further updates, bug fixes, new builds, or support from me**.
+>
+> Thank you to everyone who tested the builds, contributed code, shared feedback, and supported this journey. Working on this device and learning alongside the community has been a meaningful experience.
+>
+> I appreciate your understanding, and wish the cepheus community all the best.
 
 ## 🛠️ Technical Focus
 
@@ -43,9 +56,9 @@ My approach is engineering-led: investigate the underlying implementation, keep 
 | **Display Engineering** | Panel configuration, refresh-rate experiments, HBM and DC-dimming integration |
 | **Recovery** | Custom recovery device configuration and maintenance |
 
-## 📱 Main Platform — Xiaomi Mi 9 (cepheus)
+## 📱 Previous Main Platform — Xiaomi Mi 9 (cepheus)
 
-The Mi 9 is the primary device behind much of my Android development work.
+The Mi 9 was the primary device behind much of my Android development work. The repositories and details below are retained for historical reference; this platform is no longer actively maintained by me.
 
 | Component | Platform |
 |---|---|
@@ -71,7 +84,7 @@ The Mi 9 is the primary device behind much of my Android development work.
 
 ### Kernel Development
 
-My kernel work focuses on maintaining and extending the SM8150 platform, including:
+My previous kernel work on the SM8150 platform included:
 
 - Kernel maintenance and adaptation for newer Android platform releases.
 - Driver and hardware-interface debugging for the Xiaomi Mi 9.
@@ -132,15 +145,9 @@ Build availability and maintenance status are determined by the respective relea
 
 ## 🤝 Collaboration
 
-I'm interested in collaborating on:
+Although I am no longer actively maintaining the Mi 9 / SM8150 projects, the repositories remain public for anyone who may find the work useful. You are welcome to study, fork, and build upon the code in accordance with each repository's license.
 
-- Android device bring-up and maintenance.
-- Qualcomm kernel development and subsystem debugging.
-- Device tree, vendor and hardware integration.
-- Kernel security and compatibility work.
-- Reviving and extending support for older Android devices.
-
-Feel free to explore my repositories, review the code, or open an issue or pull request on the relevant project.
+Please note that I may not be able to respond to issues, review pull requests, or provide technical support.
 
 ---
 
